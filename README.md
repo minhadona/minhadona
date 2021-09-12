@@ -8,7 +8,7 @@
 
 ## About Me
 I'm an adventurous developer that loves bots and data. 
-
+![](jeif.gif)
 
   
 ## 🔗 Links
