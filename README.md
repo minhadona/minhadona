@@ -25,3 +25,8 @@ I'm an adventurous developer that loves bots and data.
 + Cobol
 + MySQL
 + PostgreSQL
+
+## :mechanical_arm: Currently learning
++ Spark
++ Data Bricks
++ Kafka
