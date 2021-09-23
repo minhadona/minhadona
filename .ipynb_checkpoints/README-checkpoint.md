@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-# Hi!
-
-
-
-
 ## About Me :brazil:
 I'm an adventurous developer that loves bots and data.
 
