@@ -24,7 +24,6 @@ I'm an adventurous developer that loves bots and data.
 + PostgreSQL
 
 
-
 ## :mechanical_arm: Currently working with
 + Spark
 + Databricks
