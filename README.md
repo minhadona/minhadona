@@ -27,8 +27,9 @@ I'm an adventurous developer that loves bots and data.
 
 ## :mechanical_arm: Currently working with
 + Spark
-+ Data Bricks
++ Databricks
 + DataDog
 + Kafka
 + RethinkDB
++ AWS
 
