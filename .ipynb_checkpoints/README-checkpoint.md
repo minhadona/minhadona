@@ -1,10 +1,8 @@
-### Hi there 👋
 
-
-## About Me :brazil:
+### Hi there 👋 :brazil:
 I'm an adventurous developer that loves bots and data.
 
-![](jeif.gif)
+![](djif.gif)
 
   
 ## 🔗 Links
