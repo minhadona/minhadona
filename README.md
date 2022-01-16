@@ -1,5 +1,4 @@
 
--teste
 ### Hi there 👋 :brazil:
 I'm an adventurous developer that loves bots and data.
 
