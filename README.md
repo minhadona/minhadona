@@ -32,3 +32,4 @@ I'm an adventurous developer that loves bots and data.
 + RethinkDB
 + AWS
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona)
