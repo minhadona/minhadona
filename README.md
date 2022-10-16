@@ -29,7 +29,7 @@ I'm an adventurous developer that loves bots and data.
 
 
 
-## :mechanical_arm: Currently working with
+## :heart_on_fire: Currently working with
 + Spark
 + Databricks
 + Azure
