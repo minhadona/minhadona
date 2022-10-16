@@ -33,4 +33,3 @@ I'm an adventurous developer that loves bots and data.
 + AWS
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona.minhadona)
