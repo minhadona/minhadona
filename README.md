@@ -17,20 +17,22 @@ I'm an adventurous developer that loves bots and data.
 
 ## :robot: Skills
 + Python
++ Kafka
++ AWS
++ PostgreSQL
 + C
 + Java
 + Cobol
 + MySQL
-+ PostgreSQL
++ Datadog
++ RethinkDB
 
 
-## :mechanical_arm: Currently working with
+
+## :heart_on_fire: Currently working with
 + Spark
 + Databricks
-+ Datadog
-+ Kafka
-+ RethinkDB
-+ AWS
++ Azure
++ Airflow
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona.minhadona)
