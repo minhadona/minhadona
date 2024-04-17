@@ -33,8 +33,10 @@ I'm an adventurous developer that loves bots and data.
 + Cobol
 
 ## :heart_on_fire: Currently working with
-nothing.   
-career break because of health issues but profiting from it for self-(tech)-development and taste my musical instruments again.
++ Aws
++ Glue
++ Lambda
++ Step functions
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=minhadona)
